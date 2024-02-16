@@ -6,4 +6,14 @@ fun main(args: Array<String>) {
     println(x)
     println(y)
     println(z)
+
+    println("______________________________________")
+
+    var a:Double=132.3
+    var b:Int=a.toInt()
+    var c:Byte=b.toByte()
+
+    println(a)
+    println(b)
+    println(c)
 }
