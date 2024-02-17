@@ -5,4 +5,10 @@ fun main(args: Array<String>) {
 
     var x:String= "Android"
     println("length of size=" +x.length)
+    println("uppercase is=" + x.uppercase())
+    println("**************************************")
+    println("lowerCase is=" + x.lowercase()) 
+
+    println(a+b)
+    println(a.trim())
 }

@@ -11,6 +11,4 @@ fun main(args: Array<String>) {
     result= (number1>number2 || (number3>number2))
     println("Result=" +result)
 
-
-    
 }
