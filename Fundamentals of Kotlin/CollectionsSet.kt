@@ -5,7 +5,7 @@ fun main(args: Array<String>) {
 
     println("___________________________________")
 
-    var mySet= setOf<Any>("Android",8,'R',3.14f,"Kotlin")
+    var mySet= setOf<Any>("Android",8,'R',true,3.14f,"Kotlin")
 
     println(mySet.size)
     println(mySet.first())
