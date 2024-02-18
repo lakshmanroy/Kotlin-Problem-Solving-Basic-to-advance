@@ -5,7 +5,6 @@ class MySecondaryCar {
     constructor(name:String,model:Int){
         this.name=name
         this.model=model
-
     }
 
 }
